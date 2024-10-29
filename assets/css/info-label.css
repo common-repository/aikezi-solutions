@@ -1,0 +1,10 @@
+.aikezi-contact-label {
+  float: left;
+  margin-right: 4px;
+  font-weight: 700;
+}
+.aikezi-error-id {
+    margin: 16px;
+    padding: 24px;
+    background-color: #ff3b0070;
+}

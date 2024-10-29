@@ -1,0 +1,15 @@
+/*info section form*/
+.label-info,
+.content-info,
+.id-info{
+    display: inline-grid;
+    margin-right: 24px;
+}
+.aikezi_s_form_group {
+    display: block;
+    margin-bottom: 24px;
+}
+
+.content-info input {
+    width: 300px;
+}
